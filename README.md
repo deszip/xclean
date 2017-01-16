@@ -30,9 +30,12 @@ usage: xclean [-l] <TARGET> [-r] <TARGET> [-t] <TIMEOUT>
 ```
 
 Some examples:<br>
-`xclean -l` - list all targets showing info on how much space could be freed<br>
-`xclean -l DerivedData` - same as above but only for derived data<br>
-`xclean -r DerivedData -t 3600` - removes all derived data older than an hour
+- List all targets showing info on how much space could be freed<br>`xclean -l`
+- Same as above but only for derived data<br>`xclean -l DerivedData`
+- Removes all derived data older than an hour<br>`xclean -r DerivedData -t 3600`
+
+## Contacts
+If you have improvements or concerns, feel free to post [an issue](https://github.com/deszip/xclean/issues) and write details.
 
 ## Source
 "Where is the sources?", you may ask.<br>
