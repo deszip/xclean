@@ -36,7 +36,3 @@ Some examples:<br>
 
 ## Contacts
 If you have improvements or concerns, feel free to post [an issue](https://github.com/deszip/xclean/issues) and write details.
-
-## Source
-"Where is the sources?", you may ask.<br>
-It's simple, xclean is not an open source project, yet.
