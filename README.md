@@ -34,5 +34,8 @@ Some examples:<br>
 - Same as above but only for derived data<br>`xclean -l DerivedData`
 - Removes all derived data older than an hour<br>`xclean -r DerivedData -t 3600`
 
+## Sources
+https://github.com/deszip/xcleaner
+
 ## Contacts
 If you have improvements or concerns, feel free to post [an issue](https://github.com/deszip/xclean/issues) and write details.
